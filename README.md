@@ -20,8 +20,6 @@ While the vast majority of Node.js apps are deployed and run in the cloud, few l
 Instructor
 Chris Bailey
 
-![alt text](https://github.com/KubernetesCourses/HelloCloudNativeDevelopmentWithNodejsDockerKubernetes/blob/master/architecture/opentracing.png "Open Tracing")
-
 Reference-style: 
 ![alt text][logo]
 
